@@ -1,0 +1,6 @@
+cat
+dog
+cow
+train
+boy
+girl
