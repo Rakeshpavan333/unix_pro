@@ -5,9 +5,7 @@ This repository contains code for the Project 'Building Labelled Datasets using 
 The primary objective of this project is to implement a tool to easily build datasets. A bash scipt that can build labeled datasets (either raw image, or processed CSV/TXT ) for training Machine Learning, Deep Learning and Convolutional neural network models and other research oriented purposes . 
 
 ## Usage
-* 
-
-* Then run the shell script as follows:
+* Run the shell script as follows:
 ```bash
 bash project.sh
 ```
