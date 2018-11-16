@@ -11,7 +11,7 @@ bash project.sh
 ```
 
 ## Team
-* [Rakesh Pavan] 
-* [Neeraj] 
-* [Dhruvik Navadiya]
-* [Yogesh Choubey]
+- Rakesh Pavan
+- Neeraj
+- Dhruvik Navadiya
+- Yogesh Choubey
