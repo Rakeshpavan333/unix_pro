@@ -1,4 +1,4 @@
-# Building Labelled datasets using BASH
+# DataSet Builder using BASH
 
 This repository contains code for the Project 'Building Labelled Datasets using BASH' for the course IT202 - Unix Programming and Practice. 
 
